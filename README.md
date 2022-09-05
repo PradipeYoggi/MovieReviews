@@ -6,12 +6,18 @@ and seeing the list of previously input reviews along side the movie shown in th
 The hierarchy of components are:
 
 App
-    MoviesList
-        Movie
-            ReviewForm
-            ReviewList
-                Review
-                    RatingStars
+
+--- MoviesList
+
+--- --- Movie
+
+--- --- --- ReviewForm
+
+--- --- --- ReviewList
+
+--- --- --- --- Review
+
+--- --- --- --- --- RatingStars
 
 App -- The application class
 
