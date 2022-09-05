@@ -1,0 +1,16 @@
+:local(.container) {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: gainsboro;
+    margin: 5px;
+    padding: 5px;
+
+    padding-top: 2px;
+    margin-top: 2px;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+    padding-left: 6px;
+    margin-left: 6px;
+    padding-right: 6px;
+    margin-right: 6px;    
+} 

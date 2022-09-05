@@ -1,0 +1,17 @@
+:local(.row) {
+    text-align: left;
+}
+
+:local(#review-content) {
+    text-align: left;
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+:local(#review-title) {
+    text-align: left;
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
